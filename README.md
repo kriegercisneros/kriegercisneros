@@ -16,7 +16,7 @@
 - Full-Stack Development
 - Currently learning AWS through self-guided research
 - Building out a sketch2img model with Stability AI's img2img model
-- Open for employment, this is [my resume](https://read.cv/0xabdulkhalid)
+- Open for employment, this is [my resume](https://docs.google.com/document/d/1ipgvQs-EHfKXY1sTm_RBqtGNqBS5yzgK-xO-flEoi8s/edit?usp=sharing)
 
 <br><br>
 
