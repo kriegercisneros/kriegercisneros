@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://miro.medium.com/v2/resize:fit:786/1*D_kfPOFeqMZGjHE8Zj93XQ.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/kriegercisneros/kriegercisneros/blob/main/assets/waving.gif" width = 250px></picture>
 
 <br>
 
