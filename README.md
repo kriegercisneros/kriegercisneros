@@ -115,6 +115,15 @@
 </a>
 </div>
 	
+<br>
+	
+<div>
+<a href="https://dev.to/kriegercisneros" target="_blank">
+<img src="https://img.shields.io/badge/Dev.to-kriegercisneros-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+	
 
 </div>
 <br>
