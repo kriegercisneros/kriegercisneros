@@ -7,7 +7,7 @@
 
 <br>
 
-## <img src = "https://github.com/kriegercisneros/kriegercisneros/blob/main/scaler-create-impact.gif?raw=true" width = 200px> **About me**
+## <img src = "https://github.com/kriegercisneros/kriegercisneros/blob/main/analyze%20this.gif?raw=true" width = 150px> **About me**
 
 <picture> <img align="right" src="https://github.com/kriegercisneros/kriegercisneros/blob/main/scaler-create-impact.gif?raw=true" width = 350px></picture>
 
