@@ -7,4 +7,6 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src = "https://media.tenor.com/PP9v7VIs6R4AAAAC/scaler-create-impact.gif" width = 50px> **About me**
+
+
