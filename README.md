@@ -9,4 +9,7 @@
 
 ## <img src = "https://github.com/kriegercisneros/kriegercisneros/blob/main/scaler-create-impact.gif?raw=true" width = 200px> **About me**
 
+<picture> <img align="right" src="https://github.com/kriegercisneros/kriegercisneros/blob/main/scaler-create-impact.gif?raw=true" width = 350px></picture>
+
+<br>
 
