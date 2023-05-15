@@ -7,6 +7,6 @@
 
 <br>
 
-## <img src = "https://media.tenor.com/PP9v7VIs6R4AAAAC/scaler-create-impact.gif" width = 50px> **About me**
+## <img src = "https://github.com/kriegercisneros/kriegercisneros/blob/main/scaler-create-impact.gif?raw=true" width = 200px> **About me**
 
 
