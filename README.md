@@ -15,7 +15,7 @@
 
 - Full-Stack Development
 - Currently learning fastai through self-guided research and Algorithm best practices through Standford University 
-- Open for employment, this is [my resume](https://docs.google.com/document/d/1ipgvQs-EHfKXY1sTm_RBqtGNqBS5yzgK-xO-flEoi8s/edit?usp=sharing)
+- Open for employment, this is [my resume](https://docs.google.com/document/d/1rud-Qlgn2Zk5BiRd5HaX7v9PjMYsSJRm538Y8QE9Dw8/edit?usp=sharing).
 
 <br><br>
 
